@@ -1,5 +1,14 @@
 # Changelog
 
+## [4.5.1](https://github.com/willdady/platypus/compare/v4.5.0...v4.5.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* **frontend:** fall back to Bot icon when agent avatar fails to load in Chat ([#1988](https://github.com/willdady/platypus/issues/1988)) ([712d5b1](https://github.com/willdady/platypus/commit/712d5b15437f53e8f48563132bfb0ee3cd8daa34))
+* **frontend:** keep list footers and toolbars when a background refresh fails ([#2001](https://github.com/willdady/platypus/issues/2001)) ([9c0c05c](https://github.com/willdady/platypus/commit/9c0c05cb0fec046164550c7407a64eb69da613a7))
+* **frontend:** reject duplicate header names in the webhook and MCP forms ([#1996](https://github.com/willdady/platypus/issues/1996)) ([363ad19](https://github.com/willdady/platypus/commit/363ad19994c3d170cf6551b6c40f1ac20a9c9a31))
+
 ## [4.5.0](https://github.com/willdady/platypus/compare/v4.4.0...v4.5.0) (2026-11-15)
 
 
